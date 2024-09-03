@@ -5,7 +5,7 @@
 You can install the linter globally using npm:
 
 ```
-npm install -g codebase-context-lint
+$ npm install -g codebase-context-lint
 ```
 
 ## 200 - 🚀 Usage
