@@ -5,6 +5,8 @@ codebase-context
 
 Based on "Codebase Context Spec" at https://github.com/Agentic-Insights/codebase-context-spec
 
+Based on "Codebase Context Spec - Discussions" at https://github.com/Agentic-Insights/codebase-context-spec/discussions
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
