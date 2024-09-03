@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+codebase-context
+# Codebase Context
 
-Based on "ABC" at https://www.abc.com/
+> A flexible, tool-agnostic, codebase context system that helps teach AI coding tools about your codebase.
+
+Based on "Codebase Context Spec" at https://github.com/Agentic-Insights/codebase-context-spec
 
 ## 100 - Introduction
 
