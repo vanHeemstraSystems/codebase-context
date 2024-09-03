@@ -25,8 +25,8 @@ $ ai-context-lint .
 
 ## 300 - ✨ Features
 
-🔍 Validates the structure and content of .context.md, .context.yaml, and .context.json files
-✅ Checks for required fields and sections
-📄 Verifies the format of .contextdocs.md files
-🚫 Validates ignore patterns in .contextignore files
-💬 Provides detailed error messages and warnings
+🔍 Validates the structure and content of .context.md, .context.yaml, and .context.json files<br/>
+✅ Checks for required fields and sections<br/>
+📄 Verifies the format of .contextdocs.md files<br/>
+🚫 Validates ignore patterns in .contextignore files<br/>
+💬 Provides detailed error messages and warnings<br/>
