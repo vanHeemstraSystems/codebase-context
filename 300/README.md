@@ -15,3 +15,7 @@ See [README.md](./300/README.md)
 ## 400 - Context Lint
 
 See [README.md](./400/README.md)
+
+## 500 - Coding Assistant Prompt
+
+See [README.md](./500/README.md)
