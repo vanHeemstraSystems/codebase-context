@@ -71,5 +71,10 @@ The project also includes guidelines for using the Codebase Context Specificatio
 I'm prepared to dive deeper into any aspect of this project, provide insights, answer questions, or assist with code generation based on the context provided. How would you like to proceed?
 ```
 
+Not yet any information that is kept in **.context.md**, hence open the file **.context.md** in a tab, keep it selected, and with Cody choose ```Add context...``` and pick ```Current File ... .context.md```. 
+
+Watch the result.
+
+
 MORE ...
 
