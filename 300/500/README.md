@@ -38,5 +38,13 @@ After a refresh of the page, you should see the newly created prompt **Codebase-
 
 Click on the prompt **Codebase-Context**.
 
+The prompt will open and a **Play** button will be shown (here in orange):
+
+![cody_prompts_for_codebase_context-005](https://github.com/user-attachments/assets/ff60ba4e-cc5b-43e9-a7a3-ca02f126c1b7)
+
+Click on the **Play** button to start the prompt.
+
+
+
 MORE ...
 
