@@ -103,4 +103,4 @@ Quality Assurance: The project uses Jest and Cypress for testing, with a focus o
 I'm prepared to provide insights, answer questions, or generate code based on this context. How would you like to proceed with the MyAwesomeProject?
 ```
 
-Hooray! Now Cody seems to have grasps the content from the **.context.md** file and described the repository as we intended it to be described!
+Hooray! Now Cody seems to have grasped the content from the **.context.md** file and described the repository as we intended it to be described!
