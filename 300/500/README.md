@@ -44,7 +44,32 @@ The prompt will open and a **Play** button will be shown (here in orange):
 
 Click on the **Play** button to start the prompt.
 
+Cody will use a Large Language Model (LLM), in the example ```Claude 3.5 Sonnet```, and return the outcome:
 
+![cody_prompts_for_codebase_context-006](https://github.com/user-attachments/assets/1d488dca-7f6c-43be-a030-062bd87dc2f3)
+
+Here is the outcome in text:
+
+```
+Certainly! I'm well-equipped to handle tasks related to the Codebase Context Specification. Based on the provided guidelines and the context from the codebase, I can confirm that I'm ready to assist you with understanding and working within this project's structure.
+
+The project "codebase-context" is a flexible, tool-agnostic system designed to teach AI coding tools about your codebase. It's based on the Codebase Context Specification, which aims to revolutionize AI-assisted development.
+
+The project is structured into several main sections:
+
+1. Introduction
+2. Requirements
+3. Building Our Application
+4. Conclusion
+
+The "Building Our Application" section is further divided into subsections covering Context, Context Docs, Context Ignore, Context Lint, and Coding Assistant Prompt.
+
+Of particular interest is the Context Lint feature, which provides a tool for validating the structure and content of Codebase Context Specification files. It can be installed globally via npm and used from the command line.
+
+The project also includes guidelines for using the Codebase Context Specification with AI assistants, particularly focusing on the use of Cody for prompting.
+
+I'm prepared to dive deeper into any aspect of this project, provide insights, answer questions, or assist with code generation based on the context provided. How would you like to proceed?
+```
 
 MORE ...
 
