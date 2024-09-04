@@ -9,6 +9,8 @@ Based on "Codebase Context Spec - Discussions" at https://github.com/Agentic-Ins
 
 Based on "Codebase Context Specification RFC: Revolutionizing AI-Assisted Development" at https://agenticinsights.substack.com/p/codebase-context-specification-rfc
 
+Based on "Upgrade Your Ai Coding Assistant Using This" at https://www.youtube.com/watch?v=rcMwYL2Wa8g
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
