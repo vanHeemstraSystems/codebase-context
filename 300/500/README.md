@@ -16,7 +16,7 @@ Note that while this approach allows for immediate use of the specification, som
 
 ## 100 - Use Cody for Prompting
 
-After having entered the Access Token from Sourcegraph Cody, Click ``Add a prompt```:
+After having entered the Access Token from Sourcegraph Cody, Click ```Add a prompt```:
 
 ![cody_prompts_for_codebase_context-001](https://github.com/user-attachments/assets/54b0862c-479c-4bd2-8d1f-8fe59ddbf553)
 
