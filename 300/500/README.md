@@ -20,5 +20,19 @@ After having entered the Access Token from Sourcegraph Cody, Click ``Add a promp
 
 ![cody_prompts_for_codebase_context-001](https://github.com/user-attachments/assets/54b0862c-479c-4bd2-8d1f-8fe59ddbf553)
 
+Take the text contained in ```CODING-ASSISTANT-PROMPT.md``` and paste it in the new to be created prompt:
+
+![cody_prompts_for_codebase_context-002](https://github.com/user-attachments/assets/c8a26787-7d3f-45c6-b4a5-7c1f0d4678d0)
+
+Optionally, untick the box ```Draft```.
+
+Click **Create prompt**
+
+Your newly created prompt will look alike:
+
+![cody_prompts_for_codebase_context-003](https://github.com/user-attachments/assets/43852a19-71a9-49d0-a462-da051edb6311)
+
+
+
 MORE ...
 
