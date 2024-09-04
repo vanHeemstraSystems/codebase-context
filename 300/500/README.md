@@ -77,7 +77,7 @@ Click the **Play** button again and watch the result.
 
 ![cody_prompts_for_codebase_context-008](https://github.com/user-attachments/assets/30eab98c-21de-468a-8f16-c29ffdfd84e1)
 
-In text:
+The result in text:
 
 ```
 Certainly! I've analyzed the provided codebase context, including the README.md and .context.md files, and I'm ready to assist you with the Codebase Context Specification for the MyAwesomeProject.
