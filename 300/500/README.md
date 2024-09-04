@@ -32,7 +32,11 @@ Your newly created prompt will look alike:
 
 ![cody_prompts_for_codebase_context-003](https://github.com/user-attachments/assets/43852a19-71a9-49d0-a462-da051edb6311)
 
+After a refresh of the page, you should see the newly created prompt **Codebase-Context** in the pick-list of Cody (here highlighted in yellow):
 
+![cody_prompts_for_codebase_context-004](https://github.com/user-attachments/assets/8735f6b4-9b3a-4f1e-8cc0-cf993f732f9e)
+
+Click on the prompt **Codebase-Context**.
 
 MORE ...
 
