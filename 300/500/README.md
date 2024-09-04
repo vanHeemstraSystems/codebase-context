@@ -73,8 +73,34 @@ I'm prepared to dive deeper into any aspect of this project, provide insights, a
 
 Not yet any information that is kept in **.context.md**, hence open the file **.context.md** in a tab, keep it selected, and with Cody choose ```Add context...``` and pick ```Current File ... .context.md```. 
 
-Watch the result.
+Click the **Play** button again and watch the result.
 
+![cody_prompts_for_codebase_context-008](https://github.com/user-attachments/assets/30eab98c-21de-468a-8f16-c29ffdfd84e1)
 
-MORE ...
+In text:
 
+```
+Certainly! I've analyzed the provided codebase context, including the README.md and .context.md files, and I'm ready to assist you with the Codebase Context Specification for the MyAwesomeProject.
+
+The project is a revolutionary web application designed for small to medium-sized businesses, focusing on real-time data processing and analysis. Here's a summary of the key points based on the context provided:
+
+Project Structure: The project follows a microservices architecture with three main components: Auth Service, User Service, and Data Processing Service.
+
+Technologies: The main technologies used are Node.js, React, and MongoDB.
+
+Development Guidelines: The project emphasizes consistent naming conventions, single-responsibility functions, and the use of feature branches and pull requests for changes.
+
+Testing: Jest is used for unit and integration testing, while Cypress is employed for end-to-end testing. There's a coverage threshold of 80%.
+
+Deployment: The application is deployed on AWS using GitHub Actions for CI/CD. There are separate staging and production environments.
+
+Business Requirements: Key features include user authentication, real-time data processing, and a mobile-responsive UI.
+
+Performance Benchmarks: API response time should be less than 200ms, and database query time should be less than 100ms.
+
+Quality Assurance: The project uses Jest and Cypress for testing, with a focus on comprehensive unit, integration, and end-to-end testing.
+
+I'm prepared to provide insights, answer questions, or generate code based on this context. How would you like to proceed with the MyAwesomeProject?
+```
+
+Hooray! Now Cody seems to have grasps the content from the **.context.md** file and described the repository as we intended it to be described!
